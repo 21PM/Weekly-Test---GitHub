@@ -1,0 +1,7 @@
+1.Cricket Bat
+2.Cricekt ball
+3.Stumps
+4.Bowling Shoes
+5.Pad
+6.Cricket Helment
+7.Cricket batting glubs
